@@ -1,0 +1,64 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "async-limiter": {
+      "integrity": "sha512-jp/uFnooOiO+L211eZOoSyzpOITMXx1rBITauYykG3BRYPu8h0UcxsPNB04RR5vo4Tyz3+ay17tR6JVf9qzYWg==",
+      "resolved": "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.0.tgz",
+      "version": "1.0.0"
+    },
+    "cheerio": "^1.0.0-rc.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.4.2",
+    "enmap": "^3.1.1",
+    "ffmpeg-binaries": "^4.0.0",
+    "fortnite": "^4.1.1",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "got": "^9.0.0",
+    "komada": "^0.21.1",
+    "long": {
+      "integrity": "sha512-XsP+KhQif4bjX1kbuSiySJFNAehNxgLb6hPRGJ9QsUr8ajHkuXGdrHmFUTUUXhDwVX2R5bY4JNZEwbUiMhV+MA==",
+      "resolved": "https://registry.npmjs.org/long/-/long-4.0.0.tgz",
+      "version": "4.0.0"
+    },
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "nodemon": "^1.18.3",
+    "openweathermapapi": "^1.0.4",
+    "opusscript": "0.0.6",
+    "os": "^0.1.1",
+    "prism-media": {
+      "integrity": "sha512-c9KkNifSMU/iXT8FFTaBwBMr+rdVcN+H/uNv1o+CuFeTThNZNTOrQ+RgXA1yL/DeLk098duAeRPP3QNPNbhxYQ==",
+      "resolved": "https://registry.npmjs.org/prism-media/-/prism-media-0.0.3.tgz",
+      "version": "0.0.3"
+    },
+    "relevant-urban": "^2.0.0",
+    "request": "^2.88.0",
+    "safe-buffer": {
+      "integrity": "sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g==",
+      "resolved": "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz",
+      "version": "5.1.2"
+    },
+    "snekfetch": "^4.0.4",
+    "superagent": "^3.8.3",
+    "tweetnacl": {
+      "integrity": "sha1-cT2LgY2kIGh0C/aDhtBHnmb8ins=",
+      "resolved": "https://registry.npmjs.org/tweetnacl/-/tweetnacl-1.0.0.tgz",
+      "version": "1.0.0"
+    },
+    "urban": "^0.3.1",
+    "weather-js": "^2.0.0",
+    "ws": {
+      "integrity": "sha512-ZGh/8kF9rrRNffkLFV4AzhvooEclrOH0xaugmqGsIfFgOE/pIz4fMc4Ef+5HSQqTEug2S9JZIWDR47duDSLfaA==",
+      "requires": {
+        "async-limiter": "1.0.0",
+        "safe-buffer": "5.1.2"
+      },
+      "resolved": "https://registry.npmjs.org/ws/-/ws-4.1.0.tgz",
+      "version": "4.1.0"
+    },
+    "ytdl-core": "^0.24.0"
+  }
+}
