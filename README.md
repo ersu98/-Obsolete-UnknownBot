@@ -20,7 +20,7 @@ Install Node.js and Npm from their website: (https://www.npmjs.com/get-npm)
 
 **botconfig.json**
 ```
-"token":	"PUT_BOT_TOKEN_HERE",
+"token": "PUT_BOT_TOKEN_HERE",
 "clientid": "PUT_BOT_CLIENTID_HERE",
 ```
 
