@@ -26,3 +26,12 @@ Install Node.js and Npm from their website: (https://www.npmjs.com/get-npm)
 
 
 After this you should be ready to go.
+
+
+## Running the bot
+
+To run the bot, simply open up a command prompt or powershell window in the same folder.
+
+Run the code below:
+
+```node index```
